@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · pCGMeiib -->
-## Notification 1/2
-Round: Round 1
-To: srnorm@sbcglobal.net, vygvaitkus@yahoo.com
-At: 2026-09-16 14:26:21
-Id: pCGMeiib
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: betheneyl@hotmail.com, pyun@umich.edu
+At: 2026-09-16 14:26:29
+Id: S0L94wm0
